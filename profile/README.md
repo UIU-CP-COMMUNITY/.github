@@ -5,19 +5,19 @@ Getting Started
 
 > To get started with Competitive Programming, we recommend the following steps:
 
-    Join our [Facebook Group](https://www.facebook.com/people/UIU-Competitive-Programmers/100090172629501/) to stay up-to-date with our events and competitions.
-    Check out our GitHub Repository to access our problem archives, solutions, and resources.
-    Solve practice problems on online judges to improve your skills.
-    Attend our workshops and competitions to learn from experienced competitors and apply your skills.
+    * Join our [Facebook Group](https://www.facebook.com/people/UIU-Competitive-Programmers/100090172629501/) to stay up-to-date with our events and competitions.
+    * Check out our GitHub Repository to access our problem archives, solutions, and resources.
+    * Solve practice problems on online judges to improve your skills.
+    * Attend our workshops and competitions to learn from experienced competitors and apply your skills.
 
 # Contributing
 
 > We welcome contributions from anyone who wants to help improve our community! Here are a few ways you can contribute:
 
-    Submit solutions to problems in our problem archives.
-    Help organize or judge our competitions.
-    Create or improve documentation in our GitHub Repository.
-    Share your knowledge and experience with others by leading a workshop or writing a blog post.
+    * Submit solutions to problems in our problem archives.
+    * Help organize or judge our competitions.
+    * Create or improve documentation in our GitHub Repository.
+    * Share your knowledge and experience with others by leading a workshop or writing a blog post.
 
 > To contribute, simply fork our repository, make your changes, and submit a pull request. We'll review your changes and merge them if they align with our mission and values.
 
