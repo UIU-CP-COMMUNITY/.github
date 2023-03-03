@@ -5,10 +5,13 @@ Getting Started
 
 > To get started with Competitive Programming, we recommend the following steps:
 
-    * Join our [Facebook Group](https://www.facebook.com/people/UIU-Competitive-Programmers/100090172629501/) to stay up-to-date with our events and competitions.
+    * Join our Facebook Group to stay up-to-date with our events and competitions.
     * Check out our GitHub Repository to access our problem archives, solutions, and resources.
     * Solve practice problems on online judges to improve your skills.
     * Attend our workshops and competitions to learn from experienced competitors and apply your skills.
+> FB GROUPS :
+* [UIU Competitive Programmers](https://www.facebook.com/people/UIU-Competitive-Programmers/100090172629501/)
+* [UIU Competitive Programmers(CP)](https://www.facebook.com/groups/612878684175841)
 
 # Contributing
 
