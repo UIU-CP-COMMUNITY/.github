@@ -1,5 +1,8 @@
 ## UIU-CP-COMMUNITY
+---
+__________________ ![UIU LOGO](https://github.com/UIU-CP-COMMUNITY/.github/blob/main/images/logo.jpg?raw=true)__________________
 
+---
 Welcome to the UIU-CP-COMMUNITY GitHub organization! We are a community of Competitive Programming enthusiasts from [United International University](https://cse.uiu.ac.bd/). Our mission is to inspire and educate individuals to become better problem solvers through programming competitions.
 Getting Started
 
