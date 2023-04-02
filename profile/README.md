@@ -15,6 +15,7 @@ Getting Started
 > FB GROUPS :
 * [UIU Competitive Programmers](https://www.facebook.com/people/UIU-Competitive-Programmers/100090172629501/)
 * [UIU Competitive Programmers(CP)](https://www.facebook.com/groups/612878684175841)
+* [UIU Computer Club](https://www.facebook.com/uiuccl)
 
 # Contributing
 
@@ -35,7 +36,8 @@ Getting Started
     Follow the rules and guidelines of any competitions or events hosted by UIU-CP-COMMUNITY.
     Ask for help and offer help in a constructive manner. We are all here to learn and grow together.
 
-> If you have any questions or concerns, please reach out to one of our administrators.
+> If you have any questions or concerns, please reach out to one of our administrators or mail us at 
+computerclub@cse.uiu.ac.bd or uiucpcommunity@gmail.com
 
 # License
 > All content in this repository is licensed under the [MIT License](https://github.com/UIU-CP-COMMUNITY/.github/blob/main/LICENSE).
